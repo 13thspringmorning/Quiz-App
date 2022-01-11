@@ -68,6 +68,10 @@ h2 {
     border-radius: 4px;
 }
 
+.btn .play {
+    background: linear-gradient(90deg, rgb(240, 102, 255) 100%), rgb(255, 246, 9) 0%, ;
+}
+
 .btn:hover {
     cursor: pointer;
     box-shadow: 0 0.4rem 1.4rem 0 rgba(8, 114, 244, 0.6);
