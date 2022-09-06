@@ -19,17 +19,16 @@ h1 {
 }
 
 h2 {
-    font-size: 4.2rem;
+    font-size: 3.7rem;
     margin-bottom: 4rem;
 }
 
 .container {
-    width: 100vw;
+    width: 80%;
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    min-width: 80rem;
     margin: 0 auto;
     padding: 2rem;
 }
@@ -67,10 +66,10 @@ h2 {
     background: linear-gradient(90deg, rgb(18, 92, 255) 0%, rgb(0, 255, 76) 100%);
     border-radius: 4px;
 }
-
-.btn .play {
-    background: linear-gradient(90deg, rgb(240, 102, 255) 100%), rgb(255, 246, 9) 0%, ;
-}
+/* 
+.play {
+    background: linear-gradient(90deg, rgb(240, 102, 255) 0%, rgb(255, 246, 9) 100%);
+} */
 
 .btn:hover {
     cursor: pointer;
